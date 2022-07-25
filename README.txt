@@ -102,13 +102,13 @@ __Visit all of our [Free](www.profiles.wordpress.org/bestwpdeveloper/#content-pl
 * [Blogs Column Data](www.wordpress.org/plugins/blogs-column-data/)
 * [Book Author Bio](www.wordpress.org/plugins/book-author-bio/)
 
-__Visit all of our [Premium](https://bwdplugins.com/elementor/) plugins__
-* [Meet The Team](https://bwdplugins.com/elementor/meet-the-team/)
-* [BWD Creative Buttons](https://bwdplugins.com/elementor/bwd-creative-buttons/)
-* [BWD Flip Box](https://bwdplugins.com/elementor/bwd-flip-box/)
-* [BWD Services Showcase](https://bwdplugins.com/elementor/bwd-services-showcase/)
-* [BWD Masking Effect](https://bwdplugins.com/elementor/bwd-masking-effect/)
-* [BWD Promo Box](https://bwdplugins.com/elementor/bwd-promo-box/)
+__Visit all of our [Premium](https://bwdplugins.com/) plugins__
+* [Meet The Team](https://bwdplugins.com/meet-the-team/)
+* [BWD Creative Buttons](https://bwdplugins.com/bwd-creative-buttons/)
+* [BWD Flip Box](https://bwdplugins.com/bwd-flip-box/)
+* [BWD Services Showcase](https://bwdplugins.com/bwd-services-showcase/)
+* [BWD Masking Effect](https://bwdplugins.com/bwd-masking-effect/)
+* [BWD Promo Box](https://bwdplugins.com/bwd-promo-box/)
 
 **👍 Your Feedback/Rating:**
 If you find this plugin helpful, feel free to give us your valuable review. Rate us and share this plugin with your friends and others. This will motivate us and help us to grow.
