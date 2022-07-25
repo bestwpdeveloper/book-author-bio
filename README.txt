@@ -1,5 +1,5 @@
 === Book Author Bio ===
-Contributors: bestwpdeveloper, wpexperttariqul, ferdaussk, nazmulhudabest, parvej12
+Contributors: bestwpdeveloper, wpexperttariqul, ferdaussk, nazmulhudabest, wpparvej
 Donate link: https://bestwpdeveloper.com/
 Tags:  author, responsive author box, author box, author bio, author biography, book author, biography, author bio elementor, elementor author bio, author profile fields, author social icons, administration
 Requires at least: 5.0
